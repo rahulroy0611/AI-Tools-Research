@@ -24,9 +24,11 @@
 | [FAAST](https://github.com/yacwagh/FAAST) | [![Last Commit](https://img.shields.io/github/last-commit/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/commits) | [![Contributors](https://img.shields.io/github/contributors/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/yacwagh/FAAST)](https://github.com/yacwagh/FAAST/stargazers) | LLM Web Application |
 | [LLM-Network-Scanner](https://github.com/damianStrojek/LLM-Network-Scanner) | [![Last Commit](https://img.shields.io/github/last-commit/damianStrojek/LLM-Network-Scanner)](https://github.com/damianStrojek/LLM-Network-Scanner/commits) | [![Contributors](https://img.shields.io/github/contributors/damianStrojek/LLM-Network-Scanner)](https://github.com/damianStrojek/LLM-Network-Scanner/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/damianStrojek/LLM-Network-Scanner)](https://github.com/damianStrojek/LLM-Network-Scanner/stargazers) | LLM Network Scanner |
 | [Agentic Security](https://github.com/msoedov/agentic_security) | [![Last Commit](https://img.shields.io/github/last-commit/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/commits) | [![Contributors](https://img.shields.io/github/contributors/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/msoedov/agentic_security)](https://github.com/msoedov/agentic_security/stargazers) | Vulnerability Scanner for Agent Workflows and LLMs |
+| [Strix](https://github.com/usestrix/strix) | [![Last Commit](https://img.shields.io/github/last-commit/usestrix/strix)](https://github.com/usestrix/strix/commits) | [![Contributors](https://img.shields.io/github/contributors/usestrix/strix)](https://github.com/usestrix/strix/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/usestrix/strix)](https://github.com/usestrix/strix/stargazers) | Open-source AI Hackers |
 
 
 
 ## References
 [A curation of awesome tools, documents and projects about LLM Security.](https://github.com/corca-ai/awesome-llm-security) \
 [Curated list of Open Source project focused on LLM security](https://github.com/kaplanlior/oss-llm-security)
+
