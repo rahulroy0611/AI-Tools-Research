@@ -28,5 +28,5 @@
 
 
 ## References
-[A curation of awesome tools, documents and projects about LLM Security.](https://github.com/corca-ai/awesome-llm-security)
+[A curation of awesome tools, documents and projects about LLM Security.](https://github.com/corca-ai/awesome-llm-security) \
 [Curated list of Open Source project focused on LLM security](https://github.com/kaplanlior/oss-llm-security)
