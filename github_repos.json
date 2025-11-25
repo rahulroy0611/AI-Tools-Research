@@ -1,0 +1,24 @@
+{
+    "scanner": [
+        {
+            "name": "Proximity",
+            "url": "fr0gger/proximity",
+            "description": "MCP Security Scanner Powered with NOVA"
+        },
+        {
+            "name": "Metis",
+            "url": "arm/metis",
+            "description": "AI-Powered Security Code Review"
+        },
+        {
+            "name": "AI-VAPT",
+            "url": "vikramrajkumarmajji/AI-VAPT",
+            "description": "Autonomous AI-Driven VA & PT Framework"
+        },
+        {
+            "name": "Deep-pwning",
+            "url": "cchio/deep-pwning",
+            "description": "lightweight framework for experimenting with machine learning models with the goal of evaluating their robustness against a motivated adversary."
+        }
+    ]
+}
